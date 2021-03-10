@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08facd63-5c94-468f-844f-04e5ad6b5952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/utils/src/main/java/com/msq/utils/bloomfilter/BulonFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615365082032</updated>
       <workItem from="1615365092416" duration="560000" />
-      <workItem from="1615365655958" duration="844000" />
+      <workItem from="1615365655958" duration="1230000" />
     </task>
     <servers />
   </component>
@@ -109,6 +108,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1864" height="257" key="GridCell.Tab.0.bottom" timestamp="1615366521954">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1615366521954" />
+    <state width="1864" height="257" key="GridCell.Tab.0.center" timestamp="1615366521954">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="257" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1615366521954" />
+    <state width="1864" height="257" key="GridCell.Tab.0.left" timestamp="1615366521953">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="257" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1615366521953" />
+    <state width="1864" height="257" key="GridCell.Tab.0.right" timestamp="1615366521954">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="257" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1615366521954" />
     <state x="232" y="107" key="new project wizard" timestamp="1615366030693">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
