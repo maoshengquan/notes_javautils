@@ -11,6 +11,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pYfjtD2p7NLJgksDI4XOf5aLsa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.utils.UtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -22,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615365082032</updated>
       <workItem from="1615365092416" duration="560000" />
+      <workItem from="1615365655958" duration="417000" />
     </task>
     <servers />
   </component>
