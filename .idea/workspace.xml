@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08facd63-5c94-468f-844f-04e5ad6b5952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rocketmq-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/AsyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/SyncProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +56,43 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.BulonFilter">
+  <component name="RunManager" selected="Application.AsyncProducer">
+    <configuration name="AsyncProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rocketmq.sync.AsyncProducer" />
+      <module name="rocketmq-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rocketmq.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BulonFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.msq.utils.bloomfilter.BulonFilter" />
       <module name="utils" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.msq.utils.bloomfilter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyncProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rocketmq.sync.SyncProducer" />
+      <module name="rocketmq-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rocketmq.sync.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsyncProducer" />
+        <item itemvalue="Application.SyncProducer" />
         <item itemvalue="Application.BulonFilter" />
       </list>
     </recent_temporary>
@@ -94,7 +127,7 @@
       <updated>1615365082032</updated>
       <workItem from="1615365092416" duration="560000" />
       <workItem from="1615365655958" duration="2040000" />
-      <workItem from="1615472301631" duration="301000" />
+      <workItem from="1615472301631" duration="2066000" />
     </task>
     <servers />
   </component>
@@ -114,22 +147,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1864" height="257" key="GridCell.Tab.0.bottom" timestamp="1615367697831">
+    <state width="1864" height="424" key="GridCell.Tab.0.bottom" timestamp="1615474378297">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1615367697831" />
-    <state width="1864" height="257" key="GridCell.Tab.0.center" timestamp="1615367697830">
+    <state width="1864" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1615474378297" />
+    <state width="1864" height="424" key="GridCell.Tab.0.center" timestamp="1615474378297">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="257" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1615367697830" />
-    <state width="1864" height="257" key="GridCell.Tab.0.left" timestamp="1615367697830">
+    <state width="1864" height="424" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1615474378297" />
+    <state width="1864" height="424" key="GridCell.Tab.0.left" timestamp="1615474378297">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="257" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1615367697830" />
-    <state width="1864" height="257" key="GridCell.Tab.0.right" timestamp="1615367697831">
+    <state width="1864" height="424" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1615474378297" />
+    <state width="1864" height="424" key="GridCell.Tab.0.right" timestamp="1615474378297">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="257" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1615367697831" />
+    <state width="1864" height="424" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1615474378297" />
+    <state x="311" y="0" key="SettingsEditor" timestamp="1615473879431">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1615473879431" />
     <state x="232" y="107" key="new project wizard" timestamp="1615472391662">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

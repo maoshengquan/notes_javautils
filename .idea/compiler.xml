@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rocketmq-demo" target="1.5" />
+      <module name="rocketmq-demo" target="6" />
       <module name="utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
