@@ -3,3 +3,6 @@
  -----------------------------------------------------
  utils模块：
     com.msq.utils.bloomfilter 布隆过滤器
+    
+ rocketmq-demo:
+    rocketmq-demo 案例   

@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08facd63-5c94-468f-844f-04e5ad6b5952" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +94,7 @@
       <updated>1615365082032</updated>
       <workItem from="1615365092416" duration="560000" />
       <workItem from="1615365655958" duration="2040000" />
+      <workItem from="1615472301631" duration="301000" />
     </task>
     <servers />
   </component>
@@ -106,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1864" height="257" key="GridCell.Tab.0.bottom" timestamp="1615367697831">
@@ -124,9 +130,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1864" height="257" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1615367697831" />
-    <state x="232" y="107" key="new project wizard" timestamp="1615366030693">
+    <state x="232" y="107" key="new project wizard" timestamp="1615472391662">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="232" y="107" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1615366030693" />
+    <state x="232" y="107" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1615472391662" />
   </component>
 </project>
