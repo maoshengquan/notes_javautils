@@ -8,6 +8,7 @@ import org.apache.rocketmq.common.message.Message;
 import org.apache.rocketmq.remoting.common.RemotingHelper;
 import org.apache.rocketmq.remoting.exception.RemotingException;
 
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 
 /**
@@ -20,16 +21,20 @@ import java.io.UnsupportedEncodingException;
  */
 public class AsyncProducer {
 
-    public static void main(String[] args) throws MQClientException, UnsupportedEncodingException, RemotingException, InterruptedException {
+    public static void main(String[] args)
+            throws MQClientException,
+            IOException,
+            RemotingException,
+            InterruptedException {
 
         // 实例化消息生产者Producer
         DefaultMQProducer producer = new DefaultMQProducer("please_rename_unique_group_name-async");
         // 设置NameServer的地址
-        producer.setNamesrvAddr("192.168.139.128:9876");
+        producer.setNamesrvAddr("192.168.139.128:9876;192.168.139.129:9876");
         // 启动Producer实例
         producer.start();
         producer.setRetryTimesWhenSendAsyncFailed(0);
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10; i++) {
             final int index = i;
             // 创建消息，并指定Topic，Tag和消息体
             Message msg = new Message("TopicTest-async",
@@ -50,6 +55,8 @@ public class AsyncProducer {
                 }
             });
         }
+
+        System.in.read();
         // 如果不再发送消息，关闭Producer实例。
         producer.shutdown();
 
