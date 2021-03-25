@@ -8,8 +8,18 @@
       <list>
         <option value="$PROJECT_DIR$/utils/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-project/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis-Reverse/pom.xml" />
+        <option value="$PROJECT_DIR$/database-demo/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/rocketmq-project/rocketmq-project-pojo/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

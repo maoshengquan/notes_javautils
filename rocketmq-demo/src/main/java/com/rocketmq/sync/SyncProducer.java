@@ -25,7 +25,7 @@ public class SyncProducer {
             RemotingException, InterruptedException, MQBrokerException {
 
         // 实例化消息生产者Producer
-        DefaultMQProducer producer = new DefaultMQProducer("please_rename_unique_group_name");
+        DefaultMQProducer producer = new DefaultMQProducer("SyncProducer");
         // 设置NameServer的地址
         producer.setNamesrvAddr("192.168.139.128:9876;192.168.139.129:9876");
         // 启动Producer实例

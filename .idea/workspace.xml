@@ -19,10 +19,359 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08facd63-5c94-468f-844f-04e5ad6b5952" name="Default Changelist" comment="">
+    <list default="true" id="08facd63-5c94-468f-844f-04e5ad6b5952" name="Default Changelist" comment="producer-demo">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_boot_dubbo_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_sdk_oracle_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_3_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_59_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_60_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_acl_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_starter_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_srvutil_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_junit_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_test_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_relational_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-Reverse/Mybatis-Reverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-Reverse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-rocketmq/src/main/java/com/example/bootrocketmq/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database-demo/note/SQL-Improve.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/improve/EmitLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/improve/EmitLogDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/improve/ReceiveLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/improve/ReceiveLogsDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/AckNewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/AckWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/FairNewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/NewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/Recv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/simple/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/topic/EmitLogTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-demo/src/main/java/com/example/rabbitmqdemo/topic/ReceiveLogsTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/OneWayProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/consumer/ConsumerInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/consumer/ConsumerTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/consumer/ConsumerTopicBroadcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/consumer/ScheduledMessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/producer/OrderStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/producer/ProducerSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/producer/ScheduledMessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/TransactionConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/TransactionListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/TransactionListenerLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/TransactionProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/rocketmq-project-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/src/main/java/com/msq/shop/consumer/ConsumerBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/src/main/java/com/msq/shop/consumer/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-interface/rocketmq-project-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-interface/src/main/java/com/msq/api/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/rocketmq-project-producer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/src/main/java/com/msq/shop/producer/ProviderBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/src/main/java/com/msq/shop/producer/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/rocketmq-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/shop-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/src/main/java/com/msq/shop/api/ICouponService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/src/main/java/com/msq/shop/api/IGoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/src/main/java/com/msq/shop/api/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-api/src/main/java/com/msq/shop/api/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/shop-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/src/main/java/com/itheima/constant/ShopCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/src/main/java/com/itheima/exception/CastException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/src/main/java/com/itheima/exception/CustomerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-common/src/main/java/com/itheima/utils/IDWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/shop-coupon-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/CouponServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/java/com/msq/shop/service/CouponServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeGoodsNumberLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeMqConsumerLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeMqProducerTempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradePayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/src/main/resources/mapper/TradeUserMoneyLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/shop-goods-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/GoodsServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/java/com/msq/shop/service/GoodsServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeGoodsNumberLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeMqConsumerLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeMqProducerTempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradePayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/src/main/resources/mapper/TradeUserMoneyLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/shop-order-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/config/OrderServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/mq/PaymentListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/java/com/msq/shop/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeGoodsNumberLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeMqConsumerLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeMqProducerTempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradePayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-service/src/main/resources/mapper/TradeUserMoneyLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-web/shop-order-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-web/src/main/java/com/msq/shop/order/web/OrderWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-order-web/src/test/java/com/msq/shop/order/web/OrderTestWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/shop-pay-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/src/main/java/com/msq/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pay-web/shop-pay-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/shop-pojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/entity/MQEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeCouponExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeGoodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeGoodsNumberLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeGoodsNumberLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeGoodsNumberLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeMqConsumerLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeMqConsumerLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeMqConsumerLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeMqProducerTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeMqProducerTempExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeOrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradePay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradePayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeUserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeUserMoneyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeUserMoneyLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-pojo/src/main/java/com/msq/shop/pojo/TradeUserMoneyLogKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/shop-user-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeGoodsNumberLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeMqConsumerLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeMqProducerTempMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradePayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mapper/TradeUserMoneyLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/mq/CancelMQListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/java/com/msq/shop/service/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeGoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeGoodsNumberLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeMqConsumerLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeMqProducerTempMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradePayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper/TradeUserMoneyLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/AsyncProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/AsyncProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/SyncProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/SyncProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/AsyncProducer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/AsyncProducer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/AsyncProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/AsyncProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/SyncProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-demo/target/classes/com/rocketmq/sync/SyncProducer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +381,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1pYfjtD2p7NLJgksDI4XOf5aLsa" />
   <component name="ProjectLevelVcsManager">
@@ -48,21 +405,39 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rocketmq-project/shop-user-service/src/main/resources/mapper" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.34590617" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.AsyncProducer">
-    <configuration name="AsyncProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rocketmq.sync.AsyncProducer" />
-      <module name="rocketmq-demo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\notes_javautils\rocketmq-project\shop-user-service\src\main\resources\mapper" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\notes_javautils\rocketmq-project\shop-goods-service\src\main\resources\mapper" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\notes_javautils\rocketmq-project\shop-common\src\main" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\notes_javautils\rocketmq-project\shop-pojo\src\main\java\com\msq\shop\pojo" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\notes_javautils\rocketmq-project\shop-order-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Recv">
+    <configuration name="EmitLogDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.rabbitmqdemo.improve.EmitLogDirect" />
+      <module name="rabbitmq-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rocketmq.sync.*" />
+          <option name="PATTERN" value="com.example.rabbitmqdemo.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +445,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BulonFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msq.utils.bloomfilter.BulonFilter" />
-      <module name="utils" />
+    <configuration name="EmitLogTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.rabbitmqdemo.topic.EmitLogTopic" />
+      <module name="rabbitmq-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.msq.utils.bloomfilter.*" />
+          <option name="PATTERN" value="com.example.rabbitmqdemo.topic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,15 +458,111 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rocketmq.sync.SyncProducer" />
-      <module name="rocketmq-demo" />
+    <configuration name="ReceiveLogsTopic" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.rabbitmqdemo.topic.ReceiveLogsTopic" />
+      <module name="rabbitmq-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rocketmq.sync.*" />
+          <option name="PATTERN" value="com.example.rabbitmqdemo.topic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.rabbitmqdemo.simple.Recv" />
+      <module name="rabbitmq-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.rabbitmqdemo.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.rabbitmqdemo.simple.Send" />
+      <module name="rabbitmq-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.rabbitmqdemo.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootRocketmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-rocketmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bootrocketmq.BootRocketmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-project-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.consumer.ConsumerBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-coupon-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.CouponServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="database-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.database.databasedemo.DatabaseDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-goods-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.GoodsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.order.web.OrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-project-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.producer.ProviderBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqdemo.RabbitmqDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msq.shop.UserServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +574,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.EmitLogDirect" />
+      <item itemvalue="Application.ReceiveLogsTopic" />
+      <item itemvalue="Application.EmitLogTopic" />
+      <item itemvalue="Application.Recv" />
+      <item itemvalue="Application.Send" />
+      <item itemvalue="Spring Boot.UtilsApplication" />
+      <item itemvalue="Spring Boot.BootRocketmqApplication" />
+      <item itemvalue="Spring Boot.ProviderBootstrap" />
+      <item itemvalue="Spring Boot.ConsumerBootstrap" />
+      <item itemvalue="Spring Boot.OrderWebApplication" />
+      <item itemvalue="Spring Boot.RabbitmqDemoApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.GoodsServiceApplication" />
+      <item itemvalue="Spring Boot.CouponServiceApplication" />
+      <item itemvalue="Spring Boot.DatabaseDemoApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AsyncProducer" />
-        <item itemvalue="Application.SyncProducer" />
-        <item itemvalue="Application.BulonFilter" />
+        <item itemvalue="Application.Recv" />
+        <item itemvalue="Application.Send" />
+        <item itemvalue="Application.EmitLogTopic" />
+        <item itemvalue="Application.ReceiveLogsTopic" />
+        <item itemvalue="Application.EmitLogDirect" />
       </list>
     </recent_temporary>
   </component>
@@ -125,8 +616,40 @@
       <workItem from="1615365655958" duration="2040000" />
       <workItem from="1615472301631" duration="2066000" />
       <workItem from="1615511825960" duration="23000" />
-      <workItem from="1615608957468" duration="1321000" />
+      <workItem from="1615608957468" duration="15187000" />
+      <workItem from="1615685677403" duration="1987000" />
+      <workItem from="1615813495147" duration="3524000" />
+      <workItem from="1615873056828" duration="46000" />
+      <workItem from="1616160099790" duration="723000" />
+      <workItem from="1616160830489" duration="2912000" />
+      <workItem from="1616163946517" duration="3868000" />
+      <workItem from="1616221280976" duration="91000" />
+      <workItem from="1616222230619" duration="3463000" />
+      <workItem from="1616226487920" duration="618000" />
+      <workItem from="1616289558810" duration="7383000" />
+      <workItem from="1616313049938" duration="1985000" />
+      <workItem from="1616325433903" duration="6221000" />
+      <workItem from="1616414996901" duration="619000" />
+      <workItem from="1616565122613" duration="7337000" />
+      <workItem from="1616578889168" duration="1519000" />
+      <workItem from="1616586599000" duration="2847000" />
+      <workItem from="1616632397107" duration="35000" />
+      <workItem from="1616632476438" duration="443000" />
+      <workItem from="1616632928730" duration="42000" />
+      <workItem from="1616632973566" duration="288000" />
+      <workItem from="1616633268142" duration="1198000" />
+      <workItem from="1616640357463" duration="5000" />
+      <workItem from="1616640368879" duration="2752000" />
+      <workItem from="1616643127770" duration="2254000" />
     </task>
+    <task id="LOCAL-00001" summary="producer-demo">
+      <created>1615621390567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615621390567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,30 +667,109 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="producer-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="producer-demo" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1864" height="424" key="GridCell.Tab.0.bottom" timestamp="1615621214955">
+    <state x="311" y="0" key="#Project_Structure" timestamp="1616328293828">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1615621214955" />
-    <state width="1864" height="424" key="GridCell.Tab.0.center" timestamp="1615621214954">
+    <state x="311" y="0" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1616328293828" />
+    <state x="409" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616569624170">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="424" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1615621214954" />
-    <state width="1864" height="424" key="GridCell.Tab.0.left" timestamp="1615621214953">
+    <state x="409" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1616569624170" />
+    <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1616291325951">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="424" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1615621214953" />
-    <state width="1864" height="424" key="GridCell.Tab.0.right" timestamp="1615621214955">
+    <state x="717" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1616291325951" />
+    <state x="532" y="354" width="856" height="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616328472799">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="424" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1615621214955" />
-    <state x="311" y="0" key="SettingsEditor" timestamp="1615473879431">
+    <state x="532" y="354" width="856" height="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1032@0.0.1920.1032" timestamp="1616328472799" />
+    <state x="686" y="131" key="FileChooserDialogImpl" timestamp="1616325536945">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="311" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1615473879431" />
-    <state x="232" y="107" key="new project wizard" timestamp="1615472391662">
+    <state x="686" y="131" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1616325536945" />
+    <state x="501" y="163" key="GrepConsoleSettings" timestamp="1616329169359">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="232" y="107" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1615472391662" />
+    <state x="501" y="163" key="GrepConsoleSettings/0.0.1920.1032@0.0.1920.1032" timestamp="1616329169359" />
+    <state width="1864" height="473" key="GridCell.Tab.0.bottom" timestamp="1616643124277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="473" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1616643124277" />
+    <state width="1864" height="473" key="GridCell.Tab.0.center" timestamp="1616643124277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="473" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1616643124277" />
+    <state width="1864" height="473" key="GridCell.Tab.0.left" timestamp="1616643124277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="473" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1616643124277" />
+    <state width="1864" height="473" key="GridCell.Tab.0.right" timestamp="1616643124277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="473" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1616643124277" />
+    <state width="1864" height="388" key="GridCell.Tab.1.bottom" timestamp="1616643122526">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1616643122526" />
+    <state width="1864" height="388" key="GridCell.Tab.1.center" timestamp="1616643122525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="388" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1616643122525" />
+    <state width="1864" height="388" key="GridCell.Tab.1.left" timestamp="1616643122525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="388" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1616643122525" />
+    <state width="1864" height="388" key="GridCell.Tab.1.right" timestamp="1616643122525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="388" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1616643122525" />
+    <state x="511" y="150" key="NewModule_or_Project.wizard" timestamp="1616325539787">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="511" y="150" key="NewModule_or_Project.wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1616325539787" />
+    <state x="311" y="0" key="SettingsEditor" timestamp="1616633095741">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1616633095741" />
+    <state x="612" y="179" width="681" height="655" key="StructurePopup" timestamp="1616177503548">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="612" y="179" width="681" height="655" key="StructurePopup/0.0.1920.1032@0.0.1920.1032" timestamp="1616177503548" />
+    <state x="675" y="291" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1616293589798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="675" y="291" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1616293589798" />
+    <state x="588" y="184" width="744" height="664" key="find.popup" timestamp="1616327750390">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="588" y="184" width="744" height="664" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1616327750390" />
+    <state x="216" y="92" key="new project wizard" timestamp="1616641538218">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="216" y="92" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1616641538218" />
+    <state x="531" y="227" key="run.anything.popup" timestamp="1616224856144">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="531" y="227" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1616224856144" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1616312796614">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1616312796614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rocketmq-demo/src/main/java/com/rocketmq/sync/transcation/TransactionListenerImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

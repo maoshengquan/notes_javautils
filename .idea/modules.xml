@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-Reverse/Mybatis-Reverse.iml" filepath="$PROJECT_DIR$/Mybatis-Reverse/Mybatis-Reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-rocketmq/boot-rocketmq.iml" filepath="$PROJECT_DIR$/boot-rocketmq/boot-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-demo/database-demo.iml" filepath="$PROJECT_DIR$/database-demo/database-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/notes_javautils.iml" filepath="$PROJECT_DIR$/.idea/notes_javautils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" filepath="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/rocketmq-project.iml" filepath="$PROJECT_DIR$/rocketmq-project/rocketmq-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/rocketmq-project-consumer.iml" filepath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-consumer/rocketmq-project-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/rocketmq-project-interface/rocketmq-project-interface.iml" filepath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-interface/rocketmq-project-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/rocketmq-project-producer.iml" filepath="$PROJECT_DIR$/rocketmq-project/rocketmq-project-producer/rocketmq-project-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-api/shop-api.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-api/shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-common/shop-common.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-common/shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-coupon-service/shop-coupon-service.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-coupon-service/shop-coupon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-goods-service/shop-goods-service.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-goods-service/shop-goods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-order-service/shop-order-service.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-order-service/shop-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-order-web/shop-order-web.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-order-web/shop-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-pay-service/shop-pay-service.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-pay-service/shop-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-pay-web/shop-pay-web.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-pay-web/shop-pay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-pojo/shop-pojo.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-pojo/shop-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-project/shop-user-service/shop-user-service.iml" filepath="$PROJECT_DIR$/rocketmq-project/shop-user-service/shop-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>

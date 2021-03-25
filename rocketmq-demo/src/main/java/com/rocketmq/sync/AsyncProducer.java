@@ -10,6 +10,7 @@ import org.apache.rocketmq.remoting.exception.RemotingException;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author xiaomao
@@ -28,7 +29,7 @@ public class AsyncProducer {
             InterruptedException {
 
         // 实例化消息生产者Producer
-        DefaultMQProducer producer = new DefaultMQProducer("please_rename_unique_group_name-async");
+        DefaultMQProducer producer = new DefaultMQProducer("AsyncProducer");
         // 设置NameServer的地址
         producer.setNamesrvAddr("192.168.139.128:9876;192.168.139.129:9876");
         // 启动Producer实例
@@ -56,7 +57,7 @@ public class AsyncProducer {
             });
         }
 
-        System.in.read();
+        Thread.sleep(3000);
         // 如果不再发送消息，关闭Producer实例。
         producer.shutdown();
 

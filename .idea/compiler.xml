@@ -2,21 +2,78 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="rocketmq-demo" />
+        <module name="Mybatis-Reverse" />
+        <module name="boot-rocketmq" />
+        <module name="shop-pay-service" />
+        <module name="shop-order-service" />
         <module name="utils" />
+        <module name="rabbitmq-demo" />
+        <module name="shop-pay-web" />
+        <module name="shop-coupon-service" />
+        <module name="shop-order-web" />
+        <module name="rocketmq-project-interface" />
+        <module name="shop-goods-service" />
+        <module name="rocketmq-project-consumer" />
+        <module name="mybatis-reverse" />
+        <module name="rocketmq-project-producer" />
+        <module name="shop-api" />
+        <module name="shop-user-service" />
+        <module name="shop-pojo" />
+        <module name="rocketmq-demo" />
+        <module name="shop-common" />
+        <module name="database-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rocketmq-demo" target="6" />
+      <module name="boot-rocketmq" target="1.8" />
+      <module name="database-demo" target="1.8" />
+      <module name="Mybatis-Reverse" target="1.5" />
+      <module name="mybatis-reverse" target="1.5" />
+      <module name="rabbitmq-demo" target="1.8" />
+      <module name="rocketmq-demo" target="7" />
+      <module name="rocketmq-project" target="1.8" />
+      <module name="rocketmq-project-consumer" target="1.8" />
+      <module name="rocketmq-project-interface" target="1.8" />
+      <module name="rocketmq-project-pojo" target="1.8" />
+      <module name="rocketmq-project-producer" target="1.8" />
+      <module name="shop-api" target="1.8" />
+      <module name="shop-common" target="1.8" />
+      <module name="shop-coupon-service" target="1.8" />
+      <module name="shop-goods-service" target="1.8" />
+      <module name="shop-order-service" target="1.8" />
+      <module name="shop-order-web" target="1.8" />
+      <module name="shop-pay-service" target="1.8" />
+      <module name="shop-pay-web" target="1.8" />
+      <module name="shop-pojo" target="1.8" />
+      <module name="shop-user-service" target="1.8" />
       <module name="utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot-rocketmq" options="-parameters" />
+      <module name="database-demo" options="-parameters" />
+      <module name="rabbitmq-demo" options="-parameters" />
+      <module name="rocketmq-project" options="-parameters" />
+      <module name="rocketmq-project-consumer" options="-parameters" />
+      <module name="rocketmq-project-interface" options="-parameters" />
+      <module name="rocketmq-project-pojo" options="-parameters" />
+      <module name="rocketmq-project-producer" options="-parameters" />
+      <module name="shop-api" options="-parameters" />
+      <module name="shop-common" options="-parameters" />
+      <module name="shop-coupon-service" options="-parameters" />
+      <module name="shop-goods-service" options="-parameters" />
+      <module name="shop-order-service" options="-parameters" />
+      <module name="shop-order-web" options="-parameters" />
+      <module name="shop-pay-service" options="-parameters" />
+      <module name="shop-pay-web" options="-parameters" />
+      <module name="shop-pojo" options="-parameters" />
+      <module name="shop-user-service" options="-parameters" />
       <module name="utils" options="-parameters" />
     </option>
   </component>
