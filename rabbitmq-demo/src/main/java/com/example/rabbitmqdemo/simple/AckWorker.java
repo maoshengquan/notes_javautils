@@ -16,7 +16,7 @@ import java.util.concurrent.TimeoutException;
  */
 public class AckWorker {
 
-    private final static String QUEUE_NAME = "hello";
+    private final static String QUEUE_NAME = "hello2";
 
     public static void main(String[] args) throws IOException, TimeoutException {
         // 创建连接
@@ -42,7 +42,8 @@ public class AckWorker {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally{
-                    // 每次处理完成一个消息后，手动发送一次应答。
+                    // 参数1：每次处理完成一个消息后，手动发送一次应答。
+                    // 参数2：是否同时消费多个消息
                     channel.basicAck(envelope.getDeliveryTag(), false);
                 }
             }

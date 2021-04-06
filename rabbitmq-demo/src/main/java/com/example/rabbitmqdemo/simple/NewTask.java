@@ -17,7 +17,7 @@ import java.util.concurrent.TimeoutException;
  */
 public class NewTask {
 
-    private final static String QUEUE_NAME = "hello";
+    private final static String QUEUE_NAME = "hello2";
 
     public static void main(String[] args) throws IOException, TimeoutException {
         // 创建连接

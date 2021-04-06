@@ -33,7 +33,7 @@ public class EmitLogTopic {
         // 创建一个通道
         Channel channel = connection.createChannel();
         // 指定一个交换器
-        channel.exchangeDeclare(EXCHANGE_NAME, "topic");
+        channel.exchangeDeclare(EXCHANGE_NAME, "topic");// 支持通配符 * #
         // 发送消息
         for (String severity : LOG_LEVEL_ARR) {
             String message = "Liang-MSG log : [" +severity+ "]" + UUID.randomUUID().toString();

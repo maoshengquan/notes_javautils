@@ -33,7 +33,7 @@ public class Recv {
         // 参数3 exclusive ：仅创建者可以使用的私有队列，断开后自动删除
         // 参数4 autoDelete : 当所有消费客户端连接断开后，是否自动删除队列
         // 参数5 arguments
-        channel.queueDeclare(QUEUE_NAME, false, false, false, null);
+        channel.queueDeclare(QUEUE_NAME, true, false, false, null);
         System.out.println(" [*] Waiting for messages. To exit press CTRL+C");
         // 创建队列消费者
         Consumer consumer = new DefaultConsumer(channel) {
