@@ -1,0 +1,19 @@
+spring:
+  rabbitmq:
+    ####连接地址
+    host: 1.117.161.22
+    ####端口号
+    port: 5672
+    ####账号
+    username: guest
+    ####密码
+    password: guest
+    ### 地址
+    virtual-host: /meiteVirtualHosts
+    listener:
+     simple:
+       retry:
+         enabled: true
+         max-attempts: 3
+         initial-interval: 3000
+       acknowledge-mode: manual

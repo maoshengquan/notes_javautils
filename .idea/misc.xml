@@ -13,13 +13,24 @@
         <option value="$PROJECT_DIR$/rabbitmq-demo/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis-Reverse/pom.xml" />
         <option value="$PROJECT_DIR$/database-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/pom.xml" />
+        <option value="$PROJECT_DIR$/java-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/rocketmq-project/rocketmq-project-pojo/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/flowable-api/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/flowable-core/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/flowable-manager/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/flowable-parent/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/flowable-server/pom.xml" />
+        <option value="D:/workspace/test/java/flowable/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

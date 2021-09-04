@@ -8,9 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Mybatis-Reverse" />
+        <module name="eureka-demo" />
         <module name="boot-rocketmq" />
         <module name="shop-pay-service" />
         <module name="shop-order-service" />
+        <module name="rocketmq-demo" />
         <module name="utils" />
         <module name="rabbitmq-demo" />
         <module name="shop-pay-web" />
@@ -19,12 +21,14 @@
         <module name="rocketmq-project-interface" />
         <module name="shop-goods-service" />
         <module name="rocketmq-project-consumer" />
+        <module name="zookeeper" />
         <module name="mybatis-reverse" />
-        <module name="rocketmq-project-producer" />
+        <module name="seata-order" />
         <module name="shop-api" />
-        <module name="shop-user-service" />
+        <module name="java-basic" />
         <module name="shop-pojo" />
-        <module name="rocketmq-demo" />
+        <module name="rocketmq-project-producer" />
+        <module name="shop-user-service" />
         <module name="shop-common" />
         <module name="database-demo" />
       </profile>
@@ -32,6 +36,15 @@
     <bytecodeTargetLevel>
       <module name="boot-rocketmq" target="1.8" />
       <module name="database-demo" target="1.8" />
+      <module name="eureka-demo" target="1.8" />
+      <module name="flowable" target="1.5" />
+      <module name="flowable-api" target="1.8" />
+      <module name="flowable-core" target="1.8" />
+      <module name="flowable-demo" target="1.8" />
+      <module name="flowable-manager" target="1.8" />
+      <module name="flowable-parent" target="1.8" />
+      <module name="flowable-server" target="1.8" />
+      <module name="java-basic" target="1.8" />
       <module name="Mybatis-Reverse" target="1.5" />
       <module name="mybatis-reverse" target="1.5" />
       <module name="rabbitmq-demo" target="1.8" />
@@ -41,6 +54,7 @@
       <module name="rocketmq-project-interface" target="1.8" />
       <module name="rocketmq-project-pojo" target="1.8" />
       <module name="rocketmq-project-producer" target="1.8" />
+      <module name="seata-order" target="1.8" />
       <module name="shop-api" target="1.8" />
       <module name="shop-common" target="1.8" />
       <module name="shop-coupon-service" target="1.8" />
@@ -52,18 +66,27 @@
       <module name="shop-pojo" target="1.8" />
       <module name="shop-user-service" target="1.8" />
       <module name="utils" target="1.8" />
+      <module name="zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="boot-rocketmq" options="-parameters" />
       <module name="database-demo" options="-parameters" />
+      <module name="eureka-demo" options="-parameters" />
+      <module name="flowable-api" options="-parameters" />
+      <module name="flowable-core" options="-parameters" />
+      <module name="flowable-demo" options="-parameters" />
+      <module name="flowable-manager" options="-parameters" />
+      <module name="flowable-server" options="-parameters" />
+      <module name="java-basic" options="-parameters" />
       <module name="rabbitmq-demo" options="-parameters" />
       <module name="rocketmq-project" options="-parameters" />
       <module name="rocketmq-project-consumer" options="-parameters" />
       <module name="rocketmq-project-interface" options="-parameters" />
       <module name="rocketmq-project-pojo" options="-parameters" />
       <module name="rocketmq-project-producer" options="-parameters" />
+      <module name="seata-order" options="-parameters" />
       <module name="shop-api" options="-parameters" />
       <module name="shop-common" options="-parameters" />
       <module name="shop-coupon-service" options="-parameters" />
@@ -75,6 +98,7 @@
       <module name="shop-pojo" options="-parameters" />
       <module name="shop-user-service" options="-parameters" />
       <module name="utils" options="-parameters" />
+      <module name="zookeeper" options="-parameters" />
     </option>
   </component>
 </project>
